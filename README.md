@@ -89,7 +89,6 @@ This will:
 | ------ | --------- | ----------------- |
 | GET    | `/posts/` | List all posts    |
 | POST   | `/posts/` | Create a new post |
-| ...    |           |                   |
 
 ### Comments Service
 
@@ -97,7 +96,6 @@ This will:
 | ------ | ------------ | --------------------- |
 | GET    | `/comments/` | List all comments     |
 | POST   | `/comments/` | Add a comment to post |
-| ...    |              |                       |
 
 ---
 
